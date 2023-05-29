@@ -1,6 +1,0 @@
-{
-  "variants": {
-    "axis=z": { "model": "clayworld:block/clay_portal_ew" },
-    "axis=x": { "model": "clayworld:block/clay_portal_ns" }
-  }
-}
